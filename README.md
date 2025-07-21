@@ -49,17 +49,19 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoSOliveira0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoSOliveira0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=moltack&hide_border=false&order=2" height="250" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoSOliveira0&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LeoSOliveira0&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
 
-###
-
-
-
-
-
-
-
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSOliveira0&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
