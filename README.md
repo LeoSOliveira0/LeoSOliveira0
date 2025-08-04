@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">My name is Leonardo Dos Santos Oliveira, I'm a Java Developer from, Brazil 🇧🇷. In 2025, I completed my degree in Systems Analysis and Development at UNIASSELVI.</p>
+<p align="left">Meu nome é Leonardo Dos Santos Oliveira, sou Desenvolvedor Backend Java. Em 2025, concluí minha graduação em Análise e Desenvolvimento de Sistemas pela UNIASSELVI.
+</p>
 
 ###
 
